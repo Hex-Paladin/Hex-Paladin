@@ -1,6 +1,6 @@
 ### Hi there, I'm Bryan Snyder
 
-I'm a soon-to-be graduate with a Bachelor of Science in Computer Science, deeply passionate about programming and game design. I specialize in C# but also enjoy exploring other technologies and languages that enhance my ability to create and innovate in the tech space.
+I'm a Bachelor of Science in Computer Science, deeply passionate about programming and game design. I specialize in C# but also enjoy exploring other technologies and languages that enhance my ability to create and innovate in the tech space.
 
 During my academic career, I've worked on a variety of projects ranging from game development, .NET web development, and theoretical computer science, some of which you can explore right here on GitHub. My educational background and projects have given me a solid foundation in both theoretical and practical aspects of computer science and software engineering.
 
